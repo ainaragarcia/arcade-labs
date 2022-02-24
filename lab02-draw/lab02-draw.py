@@ -113,6 +113,8 @@ arcade.draw_circle_filled(910, 610, 30, arcade.color.WHITE)
             #MONTAÑA
 arcade.draw_triangle_filled(150, 200, 350, 200, 250, 300, arcade.color.ENGLISH_GREEN)
 arcade.draw_triangle_filled(220, 270, 280, 270, 250, 300, arcade.color.WHITE)
+
+
 # --- final ---
 arcade.finish_render()
 arcade.run()
